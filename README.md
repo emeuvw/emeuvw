@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi,
+this is my professional GitHub account.
+I use this account to develop and maintain source code for the company I work for.
 
 <!--
 **emeuvw/emeuvw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
